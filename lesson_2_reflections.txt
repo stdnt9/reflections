@@ -6,3 +6,6 @@ The staging area is some kind of buffer between your working directory and your 
 
 How can you use the staging area to make sure you have one commit per logical change?
 You can add only the files that were changed during one logical change to the stating area to commit them, without commiting other changes, that had no logical connection.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Branches are helpful in situations where you add experimental features, that you are not sure about if they work out, or if you make an version in a different language or on a different platform.
