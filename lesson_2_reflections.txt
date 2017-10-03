@@ -12,3 +12,6 @@ Branches are helpful in situations where you add experimental features, that you
 
 How do the diagrams help you visualize the branch structure?
 They help you visualize wich other commits are reachable from any commit and wich are not. Also you get to see faster what are the parent commits.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The result of merging two nranches together is creating a new branch, that includes all the commits of both branches.
