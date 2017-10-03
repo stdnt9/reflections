@@ -9,3 +9,6 @@ You can add only the files that were changed during one logical change to the st
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 Branches are helpful in situations where you add experimental features, that you are not sure about if they work out, or if you make an version in a different language or on a different platform.
+
+How do the diagrams help you visualize the branch structure?
+They help you visualize wich other commits are reachable from any commit and wich are not. Also you get to see faster what are the parent commits.
