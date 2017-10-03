@@ -15,3 +15,7 @@ They help you visualize wich other commits are reachable from any commit and wic
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 The result of merging two nranches together is creating a new branch, that includes all the commits of both branches.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+pro: you save time and workload if the commits are automatically mergeable.
+con: you may introduce difficult to solve conflicts by doing so.
