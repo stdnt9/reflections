@@ -3,3 +3,6 @@ You want to create a remote repository when you need to work on different device
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 You want to pull changes manually, so you can push all commits that belong to one new function or feature together, rather then push every single commit, leting your remote in an nonconsistant or notworking state til you pushed every commit.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+You would use forks to make changes to repositorys you don't have the right to push to. Clone to get an online repository to your local machine. And branches to create a "fork" on your local machine.
