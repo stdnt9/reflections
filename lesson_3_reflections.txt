@@ -6,3 +6,6 @@ You want to pull changes manually, so you can push all commits that belong to on
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 You would use forks to make changes to repositorys you don't have the right to push to. Clone to get an online repository to your local machine. And branches to create a "fork" on your local machine.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+You can compare the last changes of the remote with your own status or changes and prepare how to solve conflicts, even offline.
