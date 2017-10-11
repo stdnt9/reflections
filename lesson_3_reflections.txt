@@ -9,3 +9,7 @@ You would use forks to make changes to repositorys you don't have the right to p
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 You can compare the last changes of the remote with your own status or changes and prepare how to solve conflicts, even offline.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Without Git or GitHub i would probably only collaborate offline, with friends or colleagues i meet regularly.
+This would make it easier to understand their changes, because they could directly explain them to me. But it would be much harder to keep everybody up to date and find dates to meet each other to exchange our code.
