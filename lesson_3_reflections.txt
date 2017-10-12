@@ -13,3 +13,6 @@ You can compare the last changes of the remote with your own status or changes a
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Without Git or GitHub i would probably only collaborate offline, with friends or colleagues i meet regularly.
 This would make it easier to understand their changes, because they could directly explain them to me. But it would be much harder to keep everybody up to date and find dates to meet each other to exchange our code.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+You want to make changes in a separate branch when you add completely new, experimental, or controversial features. Doing so, has the advantage of better seperating it logically from the master-branch. The disadvantage is you have to invest more work to finally merge it to the master branch when you decide to keep this feature.
